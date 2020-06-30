@@ -8,4 +8,4 @@ This repo will contain the official code for the paper:
 [Justin Solomon](https://people.csail.mit.edu/jsolomon/),
 [Yuliya Tarabalka](https://www-sop.inria.fr/members/Yuliya.Tarabalka/)\
 IGARSS 2020\
-**\[[paper](https://arxiv.org/pdf/2004.14875.pdf)\] (extended version)**
+**\[[paper](https://arxiv.org/pdf/2004.14875.pdf)(extended version)\]**
