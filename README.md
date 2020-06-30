@@ -7,5 +7,5 @@ This repo will contain the official code for the paper:
 [Dmitriy Smirnov](https://people.csail.mit.edu/smirnov/),
 [Justin Solomon](https://people.csail.mit.edu/jsolomon/),
 [Yuliya Tarabalka](https://www-sop.inria.fr/members/Yuliya.Tarabalka/)\
-ArXiv 2020\
+IGARSS 2020\
 **\[[paper](https://arxiv.org/pdf/2004.14875.pdf)\]**
